@@ -17,4 +17,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork repository.
 
 ### Copyright
-This is a copyright notice.
+This is a copyright notice. All rights reserved.
